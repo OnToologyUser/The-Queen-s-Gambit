@@ -656,7 +656,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/david/ontologies/2022/3/the-queen&apos;s-gambit#E4_Middle_Game">
         <rdf:type rdf:resource="http://www.semanticweb.org/david/ontologies/2022/3/the-queen&apos;s-gambit#Episode"/>
-        <s-gambit:episodeNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</s-gambit:episodeNumber>
+        <s-gambit:episodeNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">4</s-gambit:episodeNumber>
         <s-gambit:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Middle Game</s-gambit:title>
     </owl:NamedIndividual>
     
@@ -677,7 +677,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/david/ontologies/2022/3/the-queen&apos;s-gambit#E6_Adjournment">
         <rdf:type rdf:resource="http://www.semanticweb.org/david/ontologies/2022/3/the-queen&apos;s-gambit#Episode"/>
         <s-gambit:episodeNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">6</s-gambit:episodeNumber>
-        <s-gambit:episodeNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adjournment</s-gambit:episodeNumber>
+        <s-gambit:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adjournment</s-gambit:title>
     </owl:NamedIndividual>
     
 
